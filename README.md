@@ -95,8 +95,8 @@ Follow these steps to compile and simulate the processor using the provided test
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dual-issue-processor.git
-cd dual-issue-processor
+git clone https://github.com/abhimnyu09/Design-and-Implementation-of-a-Dual-Issue-Superscalar-Processor-with-Scoreboarding.git
+cd Design-and-Implementation-of-a-Dual-Issue-Superscalar-Processor-with-Scoreboarding
 ```
 
 ### 2. Compile the Verilog Files
